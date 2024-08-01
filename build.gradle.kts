@@ -48,4 +48,4 @@ tasks.withType<Test> {
 	useJUnitPlatform()
 }
 
-jib.to.image = "victortarasov/executor-eureka-service:v9"
+jib.to.image = "victortarasov/executor-eureka-service:v10"
